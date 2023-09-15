@@ -1,1 +1,1 @@
-# nyt-best-seller
+# nyt-best-sellers
